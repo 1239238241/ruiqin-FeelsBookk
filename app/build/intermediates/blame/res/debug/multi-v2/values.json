@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\ASWORK\\ruiqin-FeelsBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "G:\\ruiqin-FeelsBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\yisuo\\.gradle\\caches\\transforms-1\\files-1.1\\design-theme-28.0.0-alpha1.aar\\16ee2e015e70c3236b9e07d57f557875\\res\\values\\values.xml",
@@ -37,6 +37,23 @@
                         "startOffsets": "993,1043,1093,1143,1193,1242,1292,1342,1392,1442,1492,1544,1593,1645,1697,1749,1801,1852,1904,1956,2008,2060,2112,2165,2621,8028,8144,8190,11427,11490,13716",
                         "endColumns": "49,49,49,49,48,49,49,49,49,49,51,48,51,51,51,51,50,51,51,51,51,51,52,53,63,57,45,59,62,67,52",
                         "endOffsets": "1038,1088,1138,1188,1237,1287,1337,1387,1437,1487,1539,1588,1640,1692,1744,1796,1847,1899,1951,2003,2055,2107,2160,2214,2680,8081,8185,8245,11485,11553,13764"
+                    }
+                },
+                {
+                    "source": "G:\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "41",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "828",
+                        "startColumns": "4",
+                        "startOffsets": "73516",
+                        "endColumns": "41",
+                        "endOffsets": "73553"
                     }
                 },
                 {
@@ -205,6 +222,42 @@
                     }
                 },
                 {
+                    "source": "G:\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,15,10,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,545,389,639",
+                        "endLines": "8,15,13,17",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "381,631,537,715"
+                    },
+                    "to": {
+                        "startLines": "1023,1029,1030,1034",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "86770,87094,87184,87334",
+                        "endLines": "1028,1029,1033,1034",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "87089,87179,87329,87409"
+                    }
+                },
+                {
+                    "source": "G:\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,64",
+                        "endColumns": "45,77",
+                        "endOffsets": "58,137"
+                    },
+                    "to": {
+                        "startLines": "998,1013",
+                        "startColumns": "4,4",
+                        "startOffsets": "84105,85973",
+                        "endColumns": "45,77",
+                        "endOffsets": "84146,86046"
+                    }
+                },
+                {
                     "source": "C:\\Users\\yisuo\\.gradle\\caches\\transforms-1\\files-1.1\\transition-28.0.0-alpha1.aar\\f4c2714219abdccfb8e6888eda89926d\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -219,23 +272,6 @@
                         "startOffsets": "79800,80130,80269,80316,80371,80847,80901,80953,81002,81063",
                         "endColumns": "39,42,46,54,44,53,51,48,60,49",
                         "endOffsets": "79835,80168,80311,80366,80411,80896,80948,80997,81058,81108"
-                    }
-                },
-                {
-                    "source": "G:\\ASWORK\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "215,216,217",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "11209,11255,11302",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "11250,11297,11348"
                     }
                 },
                 {
@@ -255,23 +291,6 @@
                         "endLines": "13,14,794,795,959,1022,2953,2960,2974,2986,3134,3223",
                         "endColumns": "60,54,66,66,61,10,10,10,10,10,10,104",
                         "endOffsets": "674,729,71418,71485,81442,86765,211166,211602,212345,213376,224668,229994"
-                    }
-                },
-                {
-                    "source": "G:\\ASWORK\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "17,64",
-                        "endColumns": "45,77",
-                        "endOffsets": "58,137"
-                    },
-                    "to": {
-                        "startLines": "998,1013",
-                        "startColumns": "4,4",
-                        "startOffsets": "84105,85973",
-                        "endColumns": "45,77",
-                        "endOffsets": "84146,86046"
                     }
                 },
                 {
@@ -370,25 +389,6 @@
                     }
                 },
                 {
-                    "source": "G:\\ASWORK\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,15,10,17",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "57,545,389,639",
-                        "endLines": "8,15,13,17",
-                        "endColumns": "12,90,12,80",
-                        "endOffsets": "381,631,537,715"
-                    },
-                    "to": {
-                        "startLines": "1023,1029,1030,1034",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "86770,87094,87184,87334",
-                        "endLines": "1028,1029,1033,1034",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "87089,87179,87329,87409"
-                    }
-                },
-                {
                     "source": "C:\\Users\\yisuo\\.gradle\\caches\\transforms-1\\files-1.1\\design-widget-28.0.0-alpha1.aar\\361d7b2daf145cfb0d58b7988daffa80\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,95,99,107,111",
@@ -405,23 +405,6 @@
                         "endLines": "228,251,252,253,782,803,808,811,812,813,814,815,816,817,820,955,958,962,999,1000,2767,2782,3118,3138,3173",
                         "endColumns": "66,62,64,65,53,58,59,71,70,55,70,56,56,65,56,47,65,62,144,120,10,10,10,10,10",
                         "endOffsets": "12111,13527,13592,13658,70588,71944,72265,72475,72546,72602,72673,72730,72787,72853,73045,81188,81380,81622,84291,84412,200344,201278,223829,224865,227094"
-                    }
-                },
-                {
-                    "source": "G:\\ASWORK\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "41",
-                        "endOffsets": "54"
-                    },
-                    "to": {
-                        "startLines": "828",
-                        "startColumns": "4",
-                        "startOffsets": "73516",
-                        "endColumns": "41",
-                        "endOffsets": "73553"
                     }
                 },
                 {
@@ -517,6 +500,23 @@
                         "endLines": "11,842,843,844,845,846,3198,3201",
                         "endColumns": "55,65,68,80,74,55,10,10",
                         "endOffsets": "553,74616,74685,74766,74841,74897,228644,228827"
+                    }
+                },
+                {
+                    "source": "G:\\ruiqin-FeelsBook\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "215,216,217",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "11209,11255,11302",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "11250,11297,11348"
                     }
                 },
                 {

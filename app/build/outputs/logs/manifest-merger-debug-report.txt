@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\609693f7843262c065c43f6af1b94615\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\214807a15311a7adac9d0340bf644c29\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-theme-28.0.0-alpha1.aar\16ee2e015e70c3236b9e07d57f557875\AndroidManifest.xml:17:1-24:12
@@ -63,25 +63,25 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\yisuo\.gradle\cach
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03067746241adcc4c2042e169752d265\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\102ac63cfa117aa045985b56d13dae94\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\271d10cc244f159a95223572cc325317\AndroidManifest.xml:17:1-22:12
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\609693f7843262c065c43f6af1b94615\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\609693f7843262c065c43f6af1b94615\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\214807a15311a7adac9d0340bf644c29\AndroidManifest.xml:22:5-20
@@ -147,49 +147,49 @@ MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\yisuo\.grad
 MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\acb2532494d7a77188a7853e79c834a3\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-snackbar-28.0.0-alpha1.aar\acb2532494d7a77188a7853e79c834a3\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.CMPUT301.ruiqin.FeelsBook.MainActivity
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:12:9-19:20
 	android:label
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:13:13-45
 	android:name
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:12:19-76
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:12:19-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.CMPUT301.ruiqin.FeelsBook.HistoryPageNev
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:20:9-23:20
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:20:9-23:20
 	android:label
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:21:13-36
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:20:19-78
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:20:19-78
 activity#com.CMPUT301.ruiqin.FeelsBook.EditPage
-ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:24:9-25:45
+ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:24:9-25:45
 	android:label
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:25:13-33
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:25:13-33
 	android:name
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:24:19-72
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml:24:19-72
 uses-sdk
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\609693f7843262c065c43f6af1b94615\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha1.aar\609693f7843262c065c43f6af1b94615\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\design-bottomappbar-28.0.0-alpha1.aar\214807a15311a7adac9d0340bf644c29\AndroidManifest.xml:20:5-44
@@ -308,13 +308,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yisuo\.gradle\
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\102ac63cfa117aa045985b56d13dae94\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\271d10cc244f159a95223572cc325317\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\yisuo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\271d10cc244f159a95223572cc325317\AndroidManifest.xml:20:5-44
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		ADDED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
-		INJECTED from G:\ASWORK\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from G:\ruiqin-FeelsBook\app\src\main\AndroidManifest.xml
